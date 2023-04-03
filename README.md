@@ -1,11 +1,12 @@
 ### Hello !!! I am Pryscylla ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pryscylla-oliveira-analista/)
+<a href = "mailto:pryscyllaestetica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ![Pryscylla GitHub stats](https://github-readme-stats.vercel.app/api?username=PryscyllaOliveira&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PryscyllaOliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PryscyllaOliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technology
 
